@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186554536355",
+    "project_id": "grow-up-helper",
+    "storage_bucket": "grow-up-helper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186554536355:android:2a22a0457c34ae83ed4a16",
+        "android_client_info": {
+          "package_name": "com.hgu.grow_up_helper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186554536355-eoufi4g7h0cgv9netb241rtu4jj7nohm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Fac_u9-d-a28xDP8LZhl9r1up6RXxqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186554536355-eoufi4g7h0cgv9netb241rtu4jj7nohm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
